@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/dermatologist/dermatologist/master/banner-bell-eapen.png" alt="Bell Eapen - Physician into machine learning and AI">
 
 **Machine Learning** & **AI** on **FHIR**, **OSCAR**, **OpenMRS** & **OHDSI**
 
