@@ -15,7 +15,6 @@
 
 
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=dermatologist&show_icons=true&count_private=true&hide=contribs&line_height=40" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dermatologist&langs_count=8&hide=html,css,erlang,cpp,objective-c" />
  
 
 <!--
