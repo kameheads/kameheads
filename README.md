@@ -2,7 +2,6 @@
 
 **Machine Learning** & **AI** on **FHIR**, **OSCAR**, **OpenMRS** & **OHDSI**
 
-<details>
   <summary>🚀 Key Projects!</summary>
   <br>
 
@@ -40,7 +39,6 @@
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/10/crisp-t-ai-assisted-qualitative-research.html>CRISP-T: Bridging Text, Numbers, and AI for Smarter Qualitative Research</a></h2>
  <br><!-- BLOG-POST-LIST:END -->
-</details>
 
 <!--
 **kameheads/kameheads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
