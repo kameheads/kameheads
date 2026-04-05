@@ -13,7 +13,6 @@
   * [Collaboratively write journal papers or thesis in MS-Word and compile it to LaTeX using any template.](https://github.com/dermatologist/journal-paper-thesis-word-to-latex)
 
 
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dermatologist&show_icons=true&count_private=true&hide=contribs&line_height=40" />
  
 
 <!--
